@@ -1,0 +1,7 @@
+.idea
+target
+.settings
+.classpath
+.project
+dependency-reduced-pom.xml
+podyn.iml
